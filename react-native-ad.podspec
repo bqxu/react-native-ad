@@ -25,6 +25,6 @@ Pod::Spec.new do |s|
   # ...
   # s.dependency "..."
 
-  s.dependency 'Ads-CN', '3.4.2.3'
+  s.dependency 'Ads-CN'
 end
 
